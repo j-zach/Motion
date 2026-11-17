@@ -1,0 +1,10 @@
+name = "habit-tags"
+main = "src/index.js"
+compatibility_date = "2025-10-01"
+workers_dev = true
+preview_urls = false
+
+[[d1_databases]]
+binding = "DB"
+database_name = "habit-tags"
+database_id = "c7e82c01-d105-4cea-980c-483ea17a22d6"
